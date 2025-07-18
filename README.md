@@ -1,5 +1,5 @@
-## UsersCRUD – dokumentacja ekranów
-Aplikacja UsersCRUD to prosta aplikacja webowa umożliwiająca zarządzanie użytkownikami (dodawanie, usuwanie, edycja, podgląd). Poniżej opis dostępnych ekranów i ich adresów.
+## UsersCRUD
+Aplikacja UsersCRUD to prosta aplikacja webowa umożliwiająca zarządzanie użytkownikami (dodawanie, usuwanie, edycja, podgląd). Poniżej opis dostępnych serwletów i ich adresów.
 
 1. Lista użytkowników
    Adres: /user/list
